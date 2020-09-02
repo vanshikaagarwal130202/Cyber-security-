@@ -20,4 +20,4 @@ def isPalindrome(string):
 
 print(isPalindrome('aza')) 
 
-© 2020 GitHub, Inc.
+
